@@ -10,7 +10,7 @@ See it in action on www.blog.oliastic.com!
 
 ## Features
 
-* Customizable via single config file
+* Customizable via config file
 * Responsive design for different screen sizes
 * Optional search function
 * Additional menu items 
