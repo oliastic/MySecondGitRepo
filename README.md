@@ -149,7 +149,6 @@ Set to ***false*** to use one global comment thread shared by all posts of your 
 ##### `my_theme_disqus_shortname`
 Set to the *Disqus shortname* that you have registered for your blog.
 
-**Remarks:** 
 * *Disqus identifier*, *title* and *url* are automatically set by **MyTheme**!
 * Comment threads will be kept when blog is moved to another URL
 
